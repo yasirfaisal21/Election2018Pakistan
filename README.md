@@ -1,1 +1,2 @@
 # Election2018Pakistan
+I have compiled the list of candidates for 2018 election along with their constituencies. This dataset coupled with the 2012, 2008 and 2013 dataset can be used for analyzing the coming elections
